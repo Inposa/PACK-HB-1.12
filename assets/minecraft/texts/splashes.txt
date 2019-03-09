@@ -13,6 +13,7 @@ Faites moi un roll 30 s'il vous plaît.
 1-2-3-4
 4-4-4-4 !! QUADRA
 :SAN
+/san
 :RITUEL COLLECTE
 /rituel collecte
 "Les rageux mangent du fromage tant que j'ai une quadrature !"
@@ -49,3 +50,5 @@ La Garde ? Ils sont vraiment sympas !
 Les Arbitres ont tentés de viser la lune, on peut dire que ça a bien fonctionné.
 §a*§r§2Apprenti§r§a se gratte l'oreille en écoutant le Maître parler*
 §b**Soudainement, un espadon se jette sur les Profanes qui pêchaient au bord du lac.§r
+§6OW HIM BOWE§r
+§6OOOOMMM OOOOWWWAA OMMMMMHAAAWAAA§r

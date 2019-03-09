@@ -1,9 +1,7 @@
 {
 	"__comment": "Designed by Inposa with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"particle": "items/e_particle",
-		"texture": "items/e_texture",
-		"pipe": "pipe"
+		"pipe": "./pipe"
 	},
 	"elements": [
 		{
