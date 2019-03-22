@@ -73,3 +73,7 @@ Les Arbitres ont tentés de viser la lune, on peut dire que ça a bien fonctionn
 §b**Soudainement, tout explose.§r
 §6TOR VIS GOM BAAL§r
 §2L§r§3e §2c§r§3a§2u§r§3c§2h§r§3e§2m§r§3a§2r§r§3 §2d§r§3e §2l§r§3'§r§2I§r§3n§2v§r§3e§2n§r§3t§2e§r§3u§2r§r§3.§r
+&4Bleu !§r
+§9Rouge !§r
+§2Rose !§r
+$dVert !§r
