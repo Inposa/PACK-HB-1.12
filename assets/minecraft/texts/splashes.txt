@@ -1,12 +1,15 @@
 Herobrine.fr, le roleplay sur Minecraft !
 Une communauté roliste !
 Herobrine.fr le roleplay sur Minecraft, communauté roliste autour du mythe d'herobrine !
+§f§l- -§r
 Découvrez aussi Hrobrin.be, le roleplay sur Minceraft !
 ROLL 100 !!
 Roll 20 !
 Ah ah, c'était des roll inversés.
 1/100 ! Echec critique !
 1/100 ! Réussite critique !
+100/100 ! Réussite critique !
+100/100 ! Echec critique !
 Faites moi un roll 30 s'il vous plaît.
 Découvrez aussi Epimanity.com !
 Découvrez aussi Naheulcraft.com !
@@ -34,6 +37,8 @@ Trouvez le laisser passer A-38 !!
 Connaissez-vous la voie ? 
 Connaissez-vous le chemin ?
 ↑ ↑ ↓ ↓ ← → ← → Ｂ Ａ !
+Appuyez sur START pour commencer !
+Push START to beggin !
 ¯\_(ツ)_/¯
 toto.ogg !
 gataca.ogg !
@@ -67,8 +72,10 @@ Never gonna give you up !
 Never gonna let you down !
 Les Théoriciens et les Arbitres ont visés la lune..
 La Garde ? Ils sont vraiment sympas !
-Les Arbitres ont tentés de viser la lune, on peut dire que ça a bien fonctionné.
-§a*§r§2Apprenti§r§a se gratte l'oreille en écoutant le Maître parler*
+Les Arbitres ont tentés de viser la lune, ça a bien fonctionné.
+§a*§r§2Apprentie§r§a se gratte l'oreille en écoutant le Maître parler*§r
+§a*§r§9Membre§r§a se décale de légèrement pour écouter le Maître chuchoter*§r
+§a*§r§4Maître§r§a dit des choses à voix haute*§r
 §b**Soudainement, un espadon se jette sur les Profanes présents au bord du lac.§r
 §b**Soudainement, tout explose.§r
 §6TOR VIS GOM BAAL§r
